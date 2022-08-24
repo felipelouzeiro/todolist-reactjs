@@ -11,10 +11,21 @@ export const App = () => {
     { id: 3, name: 'Regar plantas', done: false },
   ]);
 
+  const handleAddTask = (taskName: string) => {
+    let newTaskList = [...taskList];
+    newTaskList.push({
+      id: taskList.length + 1,
+      name: taskName,
+      done: false,
+    });
+    setTaskList(newTaskList);
+  };
+
   return (
     <C.Container>
       <C.Content>
         <C.Header>Lista de Tarefas</C.Header>
+        <AddTask onSubmit={handleAddTask} />
         {taskList.map((task, index) => (
           <TaskList key={index} task={task} />
         ))}
