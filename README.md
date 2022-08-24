@@ -27,6 +27,6 @@ Esse projeto é uma lista de tarefas com status editável.
 
 #### _Funcionamento_
 
-![funcionamento](https://raw.githubusercontent.com/felipelouzeiro/todolist---reactJS/master/src/shared/images/adi%C3%A7%C3%A3o-de-tarefas.gif?token=GHSAT0AAAAAABSOAYDT7WRSMG6KSGDV3MRSYYFXJ7Q)
+![funcionamento](https://raw.githubusercontent.com/felipelouzeiro/todolist-reactJS/master/src/shared/images/adi%C3%A7%C3%A3o-de-tarefas.gif?token=GHSAT0AAAAAABSOAYDSHKFWAXSHJVFDYEKAYYFX7IQ)
 
 Feito com :heart:.
