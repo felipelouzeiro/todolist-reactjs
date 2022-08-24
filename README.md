@@ -2,6 +2,8 @@
 
 Esse projeto é uma lista de tarefas com status editável.
 
+[Veja o app aqui](https://todolist-react-js-six.vercel.app/)
+
 ### Construção
 
 #### _Ferramentas_
